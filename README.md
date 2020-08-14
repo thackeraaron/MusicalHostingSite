@@ -1,7 +1,7 @@
 # MusicalHostingSite
 I got bored so turned a hosting company website into a musical instrument
 
-Here is [a video of it working](https://i.imgur.com/INLTfUn.mp4)
+Here is [a video of it working](https://i.imgur.com/INLTfUn.mp4){:target="_blank"}
 
 ## Instructions
 - run `pip install -r requirements.txt`
